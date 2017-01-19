@@ -1,0 +1,27 @@
+commit 541ab15536627a1fbe681fcb10538d3c4d27a869
+Author: Johan Holmberg <johan.holmberg@eurostep.com>
+Date:   Wed Jan 18 11:50:48 2017 +0100
+
+    Did something
+
+D	CHANGELOG.MD
+D	Create_Changelog.sh
+A	dev_script.sh
+A	generate_changelog.sh
+
+commit 8be6ba3077e48211cfaf82a78cd56bfa27e070f3
+Author: Johan Holmberg <johan.holmberg@eurostep.com>
+Date:   Wed Jan 18 08:56:48 2017 +0100
+
+    Script created with 2 options
+
+A	CHANGELOG.MD
+A	Create_Changelog.sh
+
+commit eef1558a42706ef751f34af56797592dd3e5e1ab
+Author: Johan Holmberg <johan.holmberg@eurostep.com>
+Date:   Tue Jan 17 15:27:27 2017 +0100
+
+    Datafile added to project
+
+A	data.json

@@ -1,0 +1,5 @@
+* Did something (bugg-some-stuff@{0})
+* Script created with 2 options (bugg-some-stuff@{1})
+* Changed filetype from txt to json (feature-add-data-file@{0})
+* File created (feature-add-data-file@{1})
+* Initial commit (feature-add-data-file@{2})
