@@ -1,3 +1,3 @@
 
-git log dev...master --pretty=tformat:"* %s" > CHANGELOG.md
-wordpad CHANGELOG.md
+
+git log --first-parent dev...master --format="* %s (%b)"
